@@ -15,6 +15,7 @@
 body{
     background-image:linear-gradient(  #003249,black);
     font-family: 'DynaPuff' , sans-serif;
+    overflow: hidden
 }
 
 .center {
@@ -26,23 +27,31 @@ body{
 .w3-card{
     border-radius: 5px;
     background-color:#C8DFDB;
+    height: auto;
+    width: auto;
    
 }
 .w3-cards{
     border-radius: 5px;
     background-color:#FFF9D8;
+      height: auto;
+    width: auto;
    
 }
 
 .w3-card-4{
     border-radius: 5px;
     background-color: #66A3BF;
+      height: auto;
+    width: auto;
    
 }
 
 .w3-card-2{
     border-radius: 5px;
     background-color: #003249;
+      height: auto;
+    width: auto;
    
 }
 .edu{
